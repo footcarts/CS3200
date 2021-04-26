@@ -1,3 +1,4 @@
+
 # Improved Khoury TA Application Platform
 #### Team: Nathan Pedowitz, Brendan Prestage, Aditya Mohekar
 
